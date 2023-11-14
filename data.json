@@ -1,12 +1,10 @@
 [
     {
         "LICENSE_KEY": "ABC123",
-        "EXPIRY_DATE": "2024-01-01 23:59:59",
         "STATUS": "AVAILABLE"
     },
     {
         "LICENSE_KEY": "ax17",
-        "EXPIRY_DATE": "2024-05-12 23:59:59",
         "STATUS": "AVAILABLE"
     }
 ]
